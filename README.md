@@ -7,10 +7,8 @@ Desde o básico até criar um framework para rodar testes em paralelo via Seleni
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Bru-Selenium" height="30" width="30" src="https://s3.amazonaws.com/pics.freeicons.io/uploads/icons/png/15484977381551942825-512.png">
-  <img align="center" alt="Bru-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
-  <img align="center" alt="Bru-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bru-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <img align="right" alt="Nyan-Cat" height="180" width="300" src="https://media.giphy.com/media/9u1ifb7A77V6MICD5o/giphy.gif">
+  <img align="right" alt="Vitoria" height="180" width="300" src="https://media.giphy.com/media/9u1ifb7A77V6MICD5o/giphy.gif">
 </div>
 ##
 <div>
