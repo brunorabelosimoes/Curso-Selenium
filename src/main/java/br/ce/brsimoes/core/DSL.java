@@ -1,15 +1,23 @@
+package br.ce.brsimoes.core;
+
 import static br.ce.brsimoes.core.DriverFactory.getDriver;
 
 import java.util.List;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
 
 
 public class DSL {
-	
+
+	private WebDriver driver;
+
+	public DSL(WebDriver driver) {
+		this.driver = driver;
+	}
 
 	// ======= TextField e TextArea =====//
 	
@@ -18,7 +26,7 @@ public class DSL {
 		getDriver().findElement(by).clear();
 		getDriver().findElement(by).sendKeys(texto);
 	}
-
+	
 	public void escreve(String id_campo, String texto) {
 		getDriver().findElement(By.id(id_campo)).sendKeys(texto);
 	}
@@ -138,7 +146,7 @@ public class DSL {
 	/**************************** JS *****************************/
 	
 	public Object executarJS(String cmd, Object... param){
-		JavascriptExecutor js = (JavascriptExecutor) getDriver();
+		JavascriptExecutor js = (JavascriptExecutor) driver;
 		return js.executeScript(cmd, param);
 	}
 	

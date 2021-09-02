@@ -8,7 +8,7 @@ public class TesteGoogle {
 
 	@Test
 	public void teste() {
-	//System.setProperty("webdriver.chrome.driver","C:\\drivers\\chromedriver.exe");
+	//System.setProperty("webgetDriver().chrome.driver","C:\\drivers\\chromegetDriver().exe");
 		WebDriver driver = new ChromeDriver();
 	//WebDriver driver = new FirefoxDriver();
 		//WebDriver driver = new InternetExplorerDriver();
