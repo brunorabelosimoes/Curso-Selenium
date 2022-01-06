@@ -1,6 +1,6 @@
 ##
 Testes funcionais com Selenium WebDriver: do básico ao GRID <br>
-Desde o básico até criar um framework para rodar testes em paralelo via Selenium Grid e na nuvem com a Saucelabs.
+Desde o básico até criar um framework para rodar testes na nuvem com a Saucelabs.
 ##
 
 </div>
