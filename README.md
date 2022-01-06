@@ -20,11 +20,9 @@ Andamento<br>
 👍Interagir com elementos mais complexos, como: Alerts, Frames e PopUps<br>
 👍Organizar os códigos tornando-os mais legíveis, reusáveis e fáceis de manter<br>
 👍Entender a forma de localizar elementos na tela e criar xpaths mais robustos<br>
-Estratégias para sincronizar o teste com o fluxo da aplicação<br>
-Criar um Framework para estruturar seus testes e garantir várias funcionalidades extras sem muito esforço<br>
-Estratégias para fazer um gerenciamento das massas de dados utilizadas nos testes<br>
-Executar os testes em paralelo (e os cuidados que devemos tomar para a bateria continuar funcionando)<br>
-Executar os testes remotamente, em diversas máquinas (inclusive, de sistemas operacionais distintos), utilizando o Selenium GRID<br>
-Executar os testes na nuvem, utilizando os servidores da Saucelabs<br>
+👍Estratégias para sincronizar o teste com o fluxo da aplicação<br>
+👍Criar um Framework para estruturar seus testes e garantir várias funcionalidades extras sem muito esforço<br>
+👍Estratégias para fazer um gerenciamento das massas de dados utilizadas nos testes<br>
+👍Executar os testes na nuvem, utilizando os servidores da Saucelabs<br>
 </div>
   
